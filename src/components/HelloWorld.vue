@@ -4,15 +4,34 @@
     <p>
       I created this vueJs app using the Vue cli. I then created a droplet in digital ocean and deployed there!
     </p>
+     <h3>My Personal Links</h3>
+    <ul>
+      <li><a href="https://twitter.com/Domt301?ref_src=twsrc%5Etfw" ><img src="../assets/Twitter-logo-2012.png"></a> 
+      Twitter
+      </li>
+       <li><a href="https://domthecodingcaveman.wordpress.com/"><img src="../assets/Blog.png"></a>
+       Blog
+      </li>
+        <li><a href="https://github.com/Domt301" ><img src="../assets/Octocat.jpg"></a> 
+        GitHub
+      </li>
+    </ul>
+   
+      <h3>.Net Core web api with swagger doc hosted on aws.</h3>
+      <p>I created this project using the dotnet cli and I am using Azure Devops for a CI/CD pipeline</p>
+    <ul>
+       <li><a href="http://domnetcoreapiswagger.us-west-2.elasticbeanstalk.com/index.html" target="_blank" rel="noopener" ><img src="../assets/swagapi.png"></a></li>
+    </ul>
+   
+     <h3>Blog Post I followed to deploy this project.</h3>
+    <ul>
+       <li><a href="https://medium.com/@Web_Bailey/deploy-a-vuejs-app-with-digitalocean-fd6e7af07e40" target="_blank" rel="noopener">Medium</a></li>
+    </ul>
     <p>
       For guide and recipes on how to configure / customize this project,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
-    <h3>Blog Post I followed to deploy this project.</h3>
-    <ul>
-       <li><a href="https://medium.com/@Web_Bailey/deploy-a-vuejs-app-with-digitalocean-fd6e7af07e40" target="_blank" rel="noopener">Medium</a></li>
-    </ul>
     <h3>Installed CLI Plugins</h3>
     <ul>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
@@ -34,6 +53,8 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+   
+    
   </div>
 </template>
 
