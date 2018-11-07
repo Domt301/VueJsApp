@@ -6,21 +6,21 @@
     </p>
      <h3>My Personal Links</h3>
     <ul>
-      <li><a href="https://twitter.com/Domt301?ref_src=twsrc%5Etfw" ><img src="../assets/Twitter-logo-2012.png"></a> 
-      Twitter
-      </li>
-       <li><a href="https://domthecodingcaveman.wordpress.com/"><img src="../assets/Blog.png"></a>
-       Blog
-      </li>
-        <li><a href="https://github.com/Domt301" ><img src="../assets/Octocat.jpg"></a> 
-        GitHub
+      <li><a href="https://twitter.com/Domt301?ref_src=twsrc%5Etfw" title="Twitter" target="_blank" ><img src="../assets/Twitter-logo-2012.png"></a> 
+    
+      </li>&nbsp;
+       <li><a href="https://domthecodingcaveman.wordpress.com/" title="Blog" target="_blank" ><img src="../assets/Blog.png"></a>
+      
+      </li>&nbsp;
+        <li><a href="https://github.com/Domt301" title="Github" target="_blank" ><img src="../assets/Octocat.jpg"></a> 
+        
       </li>
     </ul>
    
       <h3>.Net Core web api with swagger doc hosted on aws.</h3>
       <p>I created this project using the dotnet cli and I am using Azure Devops for a CI/CD pipeline</p>
     <ul>
-       <li><a href="http://domnetcoreapiswagger.us-west-2.elasticbeanstalk.com/index.html" target="_blank" rel="noopener" ><img src="../assets/swagapi.png"></a></li>
+       <li><a href="http://domnetcoreapiswagger.us-west-2.elasticbeanstalk.com/index.html" target="_blank" rel="noopener" title="WebApi"><img src="../assets/swagapi.png"></a></li>
     </ul>
    
      <h3>Blog Post I followed to deploy this project.</h3>
